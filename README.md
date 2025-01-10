@@ -1,4 +1,4 @@
-# Project Title: Ames Housing Price Prediction
+# Ames Housing Price Prediction
 
 ## Project Overview
 
