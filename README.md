@@ -46,8 +46,8 @@ To run this project, you will need Python 3.8 or later and Jupyter Notebook inst
 To set up the project, start by cloning the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/nitvob/housing-price-predictor.git
+cd housing-price-predictor
 ```
 
 Then, install the required dependencies:
