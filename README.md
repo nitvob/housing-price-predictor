@@ -70,6 +70,8 @@ jupyter notebook
 
 Open the `main.ipynb` file and run the cells sequentially. This will allow you to load and preprocess the data, perform EDA, train and evaluate machine learning models, and view the results and visualizations.
 
----
+## Skills and Knowledge Gained
 
-This project reflects my ability to handle complex datasets, develop predictive models, and communicate results effectively. It serves as an example of my expertise in data science and machine learning, showcasing both technical and analytical skills.
+Through this project, I deepened my understanding of data preprocessing techniques, including handling missing values, encoding categorical variables, and standardizing numerical features. I strengthened my ability to conduct exploratory data analysis by identifying patterns, correlations, and key predictors of outcomes. Additionally, I honed my expertise in implementing and evaluating machine learning models, applying techniques such as K-Fold Cross-Validation and hyperparameter tuning to optimize performance.
+
+I also gained valuable experience with Python's powerful data science ecosystem, including libraries like Pandas, Numpy, Scikit-learn, and Matplotlib. Working on this project enhanced my skills in communicating insights effectively through visualizations and interpreting model results to inform decisions. Overall, this project served as a platform to showcase my ability to approach complex problems, derive actionable insights, and build robust solutions using machine learning.
